@@ -9,11 +9,11 @@ First, you will need the appropriate user script addon for your browser:
 Next, [just click here](https://github.com/scytalezero/MemriseUtilities/raw/master/MemriseUtilities.user.js) and you should be prompted to install the script. That's it!
 
 # Features
-Currently, MemriesUtilities only adds the ability to export the list of words and definitions from a Memrise course. Once the script is installed, navigating to the main page of a course will show a new "Word list" button next to "Difficult words".
+Currently, MemriesUtilities only adds the ability to export the list of words and definitions from a Memrise course. Once the script is installed, navigating to the main page of a course will show a new dropdown list and "Word list" button next to "Difficult words".
 
 ![Screenshot1](/Images/MemriseUtilities1.png)
 
-Clicking "Word list" will display a loading animation underneath while the levels are indexed. Once that is complete, a textarea will appear with a tab-separated list of words, definitions, and tags from all the levels of that course.
+Selecting a filter option in the dropdown list and clicking "Word list" will display a loading animation underneath while the levels are indexed. Once that is complete, a textarea will appear with a tab-separated list of words, definitions, and tags from all the levels of that course.
 
 ![Screenshot2](/Images/MemriseUtilities2.png)
 
